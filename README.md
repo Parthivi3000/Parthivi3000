@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Parthivi3000
+- 👀 I’m interested in Sports (Video Games :-) )
+- 🌱 I’m currently learning Python and Linux
+- 📫 How to reach me .. , just give a pull req on my repo i will be there in a jiff !
