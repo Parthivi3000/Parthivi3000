@@ -2,3 +2,5 @@
 - 👀 I do love esports
 - 🌱 I’m currently learning Python and Linux
 
+
+
